@@ -30,7 +30,8 @@ This project analyzes flight, passenger, and ticket information using **Power BI
   - **Los Angeles:** 42 flights
 
 ## 📸 Dashboard Screenshots
-![Dashboard Overview](visualizations/dashboard_overview.png)
+![Dashboard Overview](![image](https://github.com/user-attachments/assets/9d07ae32-9548-406e-9e01-a04d08b6af96)
+)
 ![Passenger Insights](visualizations/passenger_insights.png)
 
 ## 🛠 Technologies Used
